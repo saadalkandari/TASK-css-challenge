@@ -1,0 +1,18 @@
+body{
+    background-image: url(../assets/pokemon-bg.jpg);
+}
+img{
+    border-radius: 50%;
+    
+    ;
+}
+.box{
+    height: 100px;
+    width: 150px;
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+    
+
+
+}
