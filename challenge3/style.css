@@ -1,11 +1,25 @@
 /* Add your code in each class */
 .container {
+  height: 300px;
+  width: 400px;
+  overflow: scroll;
+
 }
 .head {
+  background-color: rgb(255, 136, 0);
+  color: white;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  position: sticky;
+  top: 0;
 }
 
 .row {
   /* .row is used in ./index.js not in the html filee */
+  background-color: rgb(255, 252, 205);
+  color: black;
+  
+  
 }
 
 /* This is a gift - Does not need editing */
