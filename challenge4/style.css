@@ -9,11 +9,10 @@ body {
   display:flex; 
   align-items:center;
   justify-content:center;
-  flex-direction: column;
   
 }
 .movie-card {
-  position: relative;
+ position: relative;
   width: 300px;
   height:300px;
 
@@ -21,7 +20,7 @@ body {
 .movie-image {
   position: absolute;
   width: 300px;
-  height: 290px;
+  height: 300px;
   object-fit: cover;
   object-position: top;
 }
@@ -35,7 +34,8 @@ body {
   position: absolute;
   color: white;
   margin: 20px;
-  bottom: 5px;
+  bottom: -30px;
+  font-size: 18px;
 }
 
 /*A gift from us!*/
@@ -55,6 +55,6 @@ body {
 }
 .movie-title {
   color: white;
-  position: absolut;
+  
   
 }
